@@ -1,0 +1,24 @@
+
+
+# Environments
+venv
+
+
+# Django & Flask ===
+db.sqlite3
+db.sqlite3-journal
+instance/
+.webassets-cache/
+
+# Streamlit ===
+.streamlit/secrets.toml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Data & Dokument
+*.csv
+*.xlsx
+*.xls
+*.pdf
